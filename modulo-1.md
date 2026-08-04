@@ -32,13 +32,15 @@ layout:
 
 <summary>first step</summary>
 
+#### este es mi ultimo parcial de dgv:&#x20;
+
 {% file src=".gitbook/assets/Copia de Guggiari,M_dgv_2doparcial.pdf" %}
 
 #### **reframe**
 
 | Elemento           | Antes                                               | Ahora                                                                                                     |
 | ------------------ | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **TEMA**           | Largo (20 palabras)                                 | **Diseño Gráfico y Comunicación Visual para la Difusión del Patrimonio Histórico en Espacios Públicos** ✅ |
+| **TEMA**           | demasiado largo                                     | **Diseño Gráfico y Comunicación Visual para la Difusión del Patrimonio Histórico en Espacios Públicos** ✅ |
 | **RECEPTOR FOCAL** | Públicos diversos (jóvenes + turistas + residentes) | **SOLO Turista Nacional** ✅                                                                               |
 | **QUÉ HACEMOS**    | Soportes informativos aislados                      | **Recorrido** (experiencia navegable) ✅                                                                   |
 | **CONTENIDO**      | Nosotros recopilamos                                | **Emisor (Municipalidad) nos provee** ✅                                                                   |
@@ -61,8 +63,6 @@ layout:
 <summary>Materiales consultados</summary>
 
 {% embed url="https://www.youtube.com/watch?v=NtpIFqmHTCo" %}
-
-####
 
 #### Cómo redactar objetivos
 
