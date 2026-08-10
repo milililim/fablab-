@@ -142,3 +142,16 @@ Diseño Gráfico y Comunicación Visual para la Difusión del Patrimonio Histór
 2. <mark style="color:$warning;">**Identificar**</mark> <mark style="color:$warning;">necesidades de accesibilidad y navegabilidad según percepción de públicos diversos</mark>
 3. <mark style="color:$warning;">**Definir**</mark> <mark style="color:$warning;">narrativas visuales coherentes que conecten patrimonio con experiencia territorial</mark>
 4. <mark style="color:$warning;">**Proponer**</mark> <mark style="color:$warning;">criterios de diseño para un sistema integrado de comunicación visual</mark>
+
+
+
+> CORRECCIONES/ RECOMENDACIONES&#x20;
+>
+> 06/08/2026
+>
+> redactar objetivos del proceso generalizado... Diseñar&#x20;
+>
+> Realizar un mapa de proyecto para delimitar el alcance, especificar la idea de que es lo que se hará, aterrizar ideas a lo factible, en el tiempo que tenemos&#x20;
+>
+> Consultar con duo de turismo..&#x20;
+
