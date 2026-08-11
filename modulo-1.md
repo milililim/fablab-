@@ -186,7 +186,7 @@ Diseñar un sistema de comunicación visual que conecte los hitos patrimoniales 
 
 <figure><img src=".gitbook/assets/Mesa de trabajo 155555.png" alt=""><figcaption></figcaption></figure>
 
-
+Información que recogí de Pati Sanabria: (DUO TURISMO)
 
 ## avance 2&#x20;
 
@@ -198,7 +198,9 @@ Diseñar un sistema de comunicación visual que conecte los hitos patrimoniales 
 * **Beneficio para el patrimonio:** los hitos históricos se vuelven visibles y valorados, no quedan olvidados.
 * **Beneficio para Concepción:** al mejorar la experiencia, Concepción se vuelve más atractiva como destino — más gente visita, más gente recomienda, se posiciona como destino cultural.
 
+## bocetos
 
+(exploración)
 
 {% columns %}
 {% column %}
@@ -216,6 +218,6 @@ Diseñar un sistema de comunicación visual que conecte los hitos patrimoniales 
 
 {% file src=".gitbook/assets/FOCO DE ACCIÓN (2) (1).pdf" %}
 
-
+## moodboard
 
 <figure><img src=".gitbook/assets/Mesa de trabajo 1 (1).png" alt=""><figcaption></figcaption></figure>
