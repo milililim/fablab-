@@ -1,13 +1,16 @@
 ---
 icon: stopwatch
-cover: .gitbook/assets/798.jfif
-coverY: 0
+cover:
+  light: .gitbook/assets/AE633961.png
+  dark: .gitbook/assets/AE633961.png
+coverY: 187.12499999999997
+coverHeight: 700
 layout:
   width: default
   cover:
     visible: true
-    size: full
-    mask: none
+    size: background
+    mask: radial
   title:
     visible: true
   description:
@@ -32,7 +35,7 @@ layout:
 
 <summary>first step</summary>
 
-#### este es mi ultimo parcial de dgv:&#x20;
+#### &#x20;este es mi ultimo parcial de dgv:&#x20;
 
 {% file src=".gitbook/assets/Copia de Guggiari,M_dgv_2doparcial.pdf" %}
 
@@ -56,11 +59,13 @@ layout:
 
 </details>
 
+##
+
 ## avance 1
 
 <details>
 
-<summary>Materiales consultados</summary>
+<summary>Materiales consultados </summary>
 
 {% embed url="https://www.youtube.com/watch?v=NtpIFqmHTCo" %}
 
@@ -175,15 +180,33 @@ Diseñar un sistema de comunicación visual que conecte los hitos patrimoniales 
 
 
 
-<figure><img src=".gitbook/assets/concep.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Mesa de trabajo 155555.png" alt=""><figcaption></figcaption></figure>
 
-##
+
 
 ## avance 2&#x20;
 
-<figure><img src=".gitbook/assets/Mesa de trabajo 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Mesa de trabajo 1555.png" alt=""><figcaption></figcaption></figure>
+
+
 
 * **Beneficio directo (de diseño):** el turista tiene una experiencia clara y conectada del patrimonio — no se pierde, entiende la historia, se lleva su "mochila de aprendizaje".
 * **Beneficio para el patrimonio:** los hitos históricos se vuelven visibles y valorados, no quedan olvidados.
 * **Beneficio para Concepción:** al mejorar la experiencia, Concepción se vuelve más atractiva como destino — más gente visita, más gente recomienda, se posiciona como destino cultural.
+
+
+
+{% columns %}
+{% column %}
+<figure><img src=".gitbook/assets/WhatsApp Image 2026-08-11 at 15.38.41.jpeg" alt=""><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src=".gitbook/assets/WhatsApp Image 2026-08-11 at 15.38.41 (1).jpeg" alt=""><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
 
