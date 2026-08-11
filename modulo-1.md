@@ -175,7 +175,15 @@ Diseñar un sistema de comunicación visual que conecte los hitos patrimoniales 
 
 
 
+<figure><img src=".gitbook/assets/concep.png" alt=""><figcaption></figcaption></figure>
+
 ##
 
 ## avance 2&#x20;
+
+<figure><img src=".gitbook/assets/Mesa de trabajo 1.png" alt=""><figcaption></figcaption></figure>
+
+* **Beneficio directo (de diseño):** el turista tiene una experiencia clara y conectada del patrimonio — no se pierde, entiende la historia, se lleva su "mochila de aprendizaje".
+* **Beneficio para el patrimonio:** los hitos históricos se vuelven visibles y valorados, no quedan olvidados.
+* **Beneficio para Concepción:** al mejorar la experiencia, Concepción se vuelve más atractiva como destino — más gente visita, más gente recomienda, se posiciona como destino cultural.
 
