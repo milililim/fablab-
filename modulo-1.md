@@ -6,14 +6,14 @@ layout:
   width: default
   cover:
     visible: true
-    size: background
-    mask: radial
+    size: full
+    mask: none
   title:
     visible: true
   description:
-    visible: true
-  tableOfContents:
     visible: false
+  tableOfContents:
+    visible: true
   outline:
     visible: false
   pagination:
@@ -126,9 +126,7 @@ Diseño Gráfico y Comunicación Visual para la Difusión del Patrimonio Histór
 
 (acción de diseño)
 
-1. **Describir** los hitos patrimoniales clave del casco antiguo y su potencial de conexión espacial
-2. **Estructurar** el recorrido patrimonial en una secuencia narrativa que conecte hitos históricos del casco antiguo
-3. **Caracterizar** el perfil y necesidades del turista nacional como receptor del recorrido
+1. **Caracterizar** el perfil y necesidades del turista nacional como receptor del recorrido
 {% endcolumn %}
 {% endcolumns %}
 
@@ -154,4 +152,30 @@ Diseño Gráfico y Comunicación Visual para la Difusión del Patrimonio Histór
 > Realizar un mapa de proyecto para delimitar el alcance, especificar la idea de que es lo que se hará, aterrizar ideas a lo factible, en el tiempo que tenemos&#x20;
 >
 > Consultar con duo de turismo..&#x20;
+
+Correcciones realizadas&#x20;
+
+{% columns %}
+{% column width="50%" %}
+<mark style="color:blue;">OBJETIVO GENERAL</mark>
+
+Diseñar un sistema de comunicación visual que conecte los hitos patrimoniales del casco antiguo de Concepción en un recorrido narrativo coherente, facilitando el acceso al patrimonio histórico para el turista nacional.
+{% endcolumn %}
+
+{% column width="50%" %}
+#### <sub><mark style="color:blue;">OBJETIVOS ESPECÍFICOS<mark style="color:blue;"></sub>
+
+
+
+* **Diseñar** un sistema de comunicación visual que identifique y conecte los hitos patrimoniales del casco antiguo de Concepción.
+* **Diseñar** una secuencia narrativa visual que guíe al turista nacional a lo largo del recorrido, dando continuidad a la experiencia entre hito e hito.
+* **Diseñar** piezas gráficas complementarias (mapa, soporte impreso o digital) que hagan accesible el contenido histórico existente a lo largo del recorrido.
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+##
+
+## avance 2&#x20;
 
