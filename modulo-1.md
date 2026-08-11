@@ -37,7 +37,11 @@ layout:
 
 #### &#x20;este es mi ultimo parcial de dgv:&#x20;
 
+{% file src=".gitbook/assets/parcial DGV presentación .pdf" %}
+
 {% file src=".gitbook/assets/Copia de Guggiari,M_dgv_2doparcial.pdf" %}
+
+{% file src=".gitbook/assets/marca-seleccionada-concepcion (1).pdf" %}
 
 #### **reframe**
 
@@ -210,3 +214,8 @@ Diseñar un sistema de comunicación visual que conecte los hitos patrimoniales 
 {% endcolumn %}
 {% endcolumns %}
 
+{% file src=".gitbook/assets/FOCO DE ACCIÓN (2) (1).pdf" %}
+
+
+
+<figure><img src=".gitbook/assets/Mesa de trabajo 1 (1).png" alt=""><figcaption></figcaption></figure>
