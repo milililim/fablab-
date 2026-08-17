@@ -223,3 +223,5 @@ Información que recogí de Pati Sanabria: (DUO TURISMO)
 <figure><img src=".gitbook/assets/Mesa de trabajo 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Sistema.png" alt=""><figcaption></figcaption></figure>
+
+correcciones realizadas&#x20;
