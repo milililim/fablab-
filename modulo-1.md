@@ -236,3 +236,23 @@ Información que recogí de Pati Sanabria: (DUO TURISMO)
 >
 > como plataforma web digita planteemos algo sencillo o no se como porque con los tiempos no le vamos a llegar, además de que por ejemplo me imagine una pagina web con geolocalizable luego yo no se como se hace eso ni por donde empezar entonces la idea es que siempre te mantengas en el margen de lo posible con los tiempos
 
+correcciones realizadas&#x20;
+
+{% columns %}
+{% column width="50%" %}
+<mark style="color:blue;">OBJETIVO GENERAL</mark>
+
+Diseñar un sistema de comunicación visual para estructurar un recorrido y facilitar el acceso a la información histórica y turística al visitante del casco histórico de Concepción
+{% endcolumn %}
+
+{% column width="50%" %}
+#### <sub><mark style="color:blue;">OBJETIVOS ESPECÍFICOS<mark style="color:blue;"></sub>
+
+
+
+* Identificar y conectar hitos patrimoniales en un recorrido estructurado.
+* Establecer normativas de implementación para la marca ciudad que garanticen la coherencia visual y la escalabilidad del sistema en los distintos soportes del circuito.
+* Desarrollar piezas gráficas (mapa, soporte impreso, digital) que vuelvan accesible el contenido histórico existente.
+{% endcolumn %}
+{% endcolumns %}
+
