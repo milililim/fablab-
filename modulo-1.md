@@ -50,7 +50,7 @@ layout:
 | **TEMA**           | demasiado largo                                     | **Diseño Gráfico y Comunicación Visual para la Difusión del Patrimonio Histórico en Espacios Públicos** ✅ |
 | **RECEPTOR FOCAL** | Públicos diversos (jóvenes + turistas + residentes) | **SOLO Turista Nacional** ✅                                                                               |
 | **QUÉ HACEMOS**    | Soportes informativos aislados                      | **Recorrido** (experiencia navegable) ✅                                                                   |
-| **CONTENIDO**      | Nosotros recopilamos                                | **Emisor (Municipalidad) nos provee** ✅                                                                   |
+| **CONTENIDO**      | Nosotros recopilamos                                | **Emisor (Municipalidad)** ✅                                                                              |
 |                    |                                                     |                                                                                                           |
 
 </details>
@@ -59,7 +59,7 @@ layout:
 
 <summary>Guía de modulo</summary>
 
-{% embed url="https://docs.google.com/document/d/1av0tB3p7ru5QFv22MhYPHgRIM_1ABYHq2oQfwUCJimo/edit?tab=t.0#heading=h.tmdt3tepamvx" %}
+
 
 </details>
 
@@ -224,4 +224,15 @@ Información que recogí de Pati Sanabria: (DUO TURISMO)
 
 <figure><img src=".gitbook/assets/Sistema.png" alt=""><figcaption></figcaption></figure>
 
-correcciones realizadas&#x20;
+> 11/08/2026
+>
+> Correcciones&#x20;
+>
+> Ajustar objetivos.. que enfoque a la acción. Cambiar el verbo diseñar
+>
+> ... Aplicar marca ciudad en el desarrollo de un sistema
+>
+> el proyecto puede ser la primera extensión de la aplicación de la marca ciudad&#x20;
+>
+> como plataforma web digita planteemos algo sencillo o no se como porque con los tiempos no le vamos a llegar, además de que por ejemplo me imagine una pagina web con geolocalizable luego yo no se como se hace eso ni por donde empezar entonces la idea es que siempre te mantengas en el margen de lo posible con los tiempos
+
