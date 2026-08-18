@@ -11,7 +11,8 @@ cover:
     Auxiliadora, ubicado sobre la Avda_ Pinedo, que se ha convertido en poco
     tiempo en el símbolo de la ciudad, aparte del Monumento al Indio que data de
     varias .jfif
-coverY: -157.5351514320954
+coverY: -72.97215684854629
+coverHeight: 700
 layout:
   width: default
   cover:
@@ -42,29 +43,55 @@ layout:
 
 #### Guia del Parcial 1 - Cierre de Fase: Delimitación del proyecto <a href="#parcial-1-cierre-de-fase-delimitacion-del-proyecto" id="parcial-1-cierre-de-fase-delimitacion-del-proyecto"></a>
 
+{% hint style="info" %}
 **Propósito** Delimitar con precisión el problema de comunicación visual, definiendo objetivos proyectuales claros y el alcance del sistema gráfico, en coherencia con la investigación previa realizada en Diseño gráfico V
+{% endhint %}
 
-**Resultados esperados**Al finalizar la fase, serás capaz de:
+{% columns %}
+{% column %}
+Objetivo Semanal&#x20;
 
-1. <mark style="color:$success;">Formular un problema de diseño claro y pertinente.</mark>
-2. <mark style="color:$success;">Establecer objetivos generales y específicos</mark> <mark style="color:$warning;">medibles.</mark>
-3. <mark style="color:$success;">Definir el alcance del sistema gráfico del proyecto.</mark>
-4. <mark style="color:$success;">Representar visualmente la estructura inicial del proyecto.</mark>
+* Formular un problema de diseño claro y pertinente.
+* Establecer objetivos generales y específicos <mark style="color:$warning;">medibles.</mark>
+* Definir el alcance del sistema gráfico del proyecto.
+{% endcolumn %}
 
-<mark style="color:$success;">**Evidencias**</mark>
+{% column %}
+<figure><img src=".gitbook/assets/Recurso 6.png" alt=""><figcaption></figcaption></figure>
 
-1. <mark style="color:$success;">Bitácora de proyecto actualizada semanalmente.</mark>
-2. <mark style="color:$success;">Brief o insight del proyecto.</mark>
-3. <mark style="color:$success;">Esquemas visuales iniciales (mapas, síntesis gráficas, moodboard).</mark>
-4. <mark style="color:$success;">Capítulo del informe correspondiente a la delimitación del proyecto.</mark>
+
+{% endcolumn %}
+{% endcolumns %}
+
+estructura inicial del proyecto.
+
+<figure><img src=".gitbook/assets/Recurso 5.png" alt=""><figcaption></figcaption></figure>
+
+Brief o insight del proyecto.
+
+[<mark style="color:$success;">https://docs.google.com/document/d/1eC3TAw2ovezuTtZ6jtizly8aZVBdrPRT2g2pWmi8g2Q/edit?usp=sharing</mark>](https://docs.google.com/document/d/1eC3TAw2ovezuTtZ6jtizly8aZVBdrPRT2g2pWmi8g2Q/edit?usp=sharing)
+
+{% columns %}
+{% column %}
+* Esquemas visuales iniciales (mapas, síntesis gráficas, moodboard).&#x20;
 
 **Producto**
 
-1. <mark style="color:$success;">Capítulo del libro de TFG redactado correspondiente al proyecto.</mark>
+* Capítulo del libro de TFG redactado correspondiente al proyecto.
 
 {% file src=".gitbook/assets/DGVI- 1PA.pdf" %}
 
-1. Presentación oral breve (7–10 min) con <mark style="color:$success;">apoyo visual.</mark>&#x20;
+* Presentación oral breve (7–10 min) con apoyo visual.&#x20;
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src=".gitbook/assets/Recurso 7.png" alt="" width="437"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
 
 <figure><img src=".gitbook/assets/lamina 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -77,8 +104,13 @@ layout:
 
 
 * Dificultades encontradas.
-* Ajustes previstos.
 
-**Tipo de entrega**: Enlace en línea, con acceso público y permiso de comentario o imagen de la bitácora física.
+> Hola, profe. Disculpe la molestia. Quería avisarle que no pude habilitar o solucionar el tema de los comentarios directamente en esta plataforma. Para que pueda realizar la revisión sin problemas, dejo aquí abajo un enlace a un sitio en Notion que funciona como un espejo exacto del contenido del sitio web.
+
+{% embed url="https://app.notion.com/p/Bit-cora-DG-VI-ce4adde1a8df836e853201dddb89080a?source=copy_link" %}
+
+Agradezco mucho su comprensión
+
+
 
 #### &#x20;<a href="#definicion-del-problema-de-comunicacion-visual-enfoque-exclusivo-en-turistas" id="definicion-del-problema-de-comunicacion-visual-enfoque-exclusivo-en-turistas"></a>
