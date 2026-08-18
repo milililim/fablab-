@@ -1,3 +1,40 @@
+---
+cover:
+  light: >-
+    .gitbook/assets/Vista nocturna del enorme monumento a la Virgen María
+    Auxiliadora, ubicado sobre la Avda_ Pinedo, que se ha convertido en poco
+    tiempo en el símbolo de la ciudad, aparte del Monumento al Indio que data de
+    varias .jfif
+  dark: >-
+    .gitbook/assets/Vista nocturna del enorme monumento a la Virgen María
+    Auxiliadora, ubicado sobre la Avda_ Pinedo, que se ha convertido en poco
+    tiempo en el símbolo de la ciudad, aparte del Monumento al Indio que data de
+    varias .jfif
+coverY: -157.5351514320954
+layout:
+  width: default
+  cover:
+    visible: true
+    size: background
+    mask: radial
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # TEST
 
 ## examen parcial
@@ -35,8 +72,3 @@
 **Tipo de entrega**: Enlace en línea, con acceso público y permiso de comentario o imagen de la bitácora física.
 
 #### &#x20;<a href="#definicion-del-problema-de-comunicacion-visual-enfoque-exclusivo-en-turistas" id="definicion-del-problema-de-comunicacion-visual-enfoque-exclusivo-en-turistas"></a>
-
-
-
-
-
