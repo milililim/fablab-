@@ -42,7 +42,7 @@ Plantear la idea creativa visual del proyecto que responda a la fase de investig
 * <mark style="color:$danger;">Ideación: desarrollar bocetos, maquetas y prototipos que exploran diferentes alternativas de diseño para las interfaces gráficas del proyecto.</mark>
 * <mark style="color:$danger;">Parámetros y acotaciones: Definir los parámetros formales, funcionales y técnicos que servirán como insumos para validar las propuestas de diseño.</mark>
 * <mark style="color:$primary;">Referencias para las variables del sistema de diseño (lenguaje visual y sistema gráfico): establecer un lenguaje visual y sistema gráfico coherente, es el resultado de recopilar referencias visuales y elaborar guías básicas que orienten el desarrollo del proyecto. Esto implica desarrollar:</mark>
-* <mark style="color:$primary;">Moodboard de inspiración: para recopilar imágenes, texturas, paletas de color y estilos visuales que sirvan como inspiración para el proyecto.</mark>
+* <mark style="color:$success;">Moodboard de inspiración: para recopilar imágenes, texturas, paletas de color y estilos visuales que sirvan como inspiración para el proyecto.</mark>
 * <mark style="color:$primary;">Guía básica de diseño: es una guía que establece los lineamientos y criterios de diseño a seguir en el desarrollo del proyecto y sirve de base para el sistema de diseño final del proyecto.</mark>
 
 {% hint style="info" %}
@@ -88,7 +88,7 @@ Plantear la idea creativa visual del proyecto que responda a la fase de investig
 
 **Objetivo:**
 
-* Representar visualmente el planteamiento del proyecto de diseño empleando recursos de síntesis (mapa mental, moodboards, libro visual, user persona, journey map) y alcance del trabajo, que respondan a los objetivos planteados.
+* <mark style="color:$warning;">Representar visualmente el planteamiento del proyecto de diseño empleando recursos de síntesis (mapa mental, moodboards, libro visual, user persona, journey map) y alcance del trabajo, que respondan a los objetivos planteados.</mark>
 
 **Desarrollo:**
 
@@ -120,15 +120,20 @@ Plantear la idea creativa visual del proyecto que responda a la fase de investig
 
 * <mark style="color:$primary;">Elaborar el capítulo del informe que corresponde al capítulo del proyecto, según el Manual de Estilo Editorial TFG-DI 4ª edición.</mark>
 * Emplear una herramienta digital accesible para el trabajo colaborativo, que facilite la introducción de comentarios y sugerencias. Se recomienda utilizar la aplicación GDocs con permisos públicos de edición. Luego, entregar el enlace al documento en el espacio designado.
-* Para el día de la evaluación, como apoyo visual para la presentación, elabora una de las siguientes opciones
-* Una presentación digital de 10 láminas en formato 16:9 (por ejemplo, PowerPoint o Keynote); o
-* Dos láminas impresas en tamaño A3 (29,7 x 42 cm)
 
-Las láminas deben comunicar visualmente el proyecto gráfico a desarrollar, indicando la metodología de diseño aplicada, los objetivos del proyecto y el planteamiento gráfico inicial que da soporte a las ideas a prototipar.
+#### Para el día de la evaluación, como apoyo visual para la presentación, elabora una de las siguientes opciones
 
-Asegúrate de que las láminas sean visualmente atractivas, fáciles de leer y transmitan de manera efectiva los aspectos más relevantes de tu proyecto.
+<mark style="color:$success;">Dos láminas impresas en tamaño A3 (29,7 x 42 cm)</mark>
+
+<mark style="color:$success;">Las láminas deben comunicar visualmente el proyecto gráfico a desarrollar, indicando la metodología de diseño aplicada, los objetivos del proyecto y el planteamiento gráfico inicial que da soporte a las ideas a prototipar.</mark>
+
+<mark style="color:$success;">Asegúrate de que las láminas sean visualmente atractivas, fáciles de leer y transmitan de manera efectiva los aspectos más relevantes de tu proyecto.</mark>
 
 **Entregables: Documento doc o pdf, con permisos de edición y/o comentarios - Parcial 1\_nombreapellido + Lámina(s) A3 -impreso o hecho a mano-**
 
-**Tipo de entrega: Enlace a documento en línea + Presentación oral**
+**Tipo de entrega: Enlace a documento en línea +&#x20;**<mark style="color:$danger;">**Presentación oral**</mark>
+
+<figure><img src=".gitbook/assets/Captura de pantalla 2026-08-17 155339.png" alt=""><figcaption></figcaption></figure>
+
+Proceso de diseño de láminas A3&#x20;
 
