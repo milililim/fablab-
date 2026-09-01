@@ -106,3 +106,18 @@ Bocetos&#x20;
 
 <figure><img src=".gitbook/assets/WhatsApp Image 2026-08-25 at 08.37.19.jpeg" alt=""><figcaption></figcaption></figure>
 
+## avance 4&#x20;
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+{% columns %}
+{% column %}
+<figure><img src=".gitbook/assets/Mesa de trabajo 15.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src=".gitbook/assets/Mesa de trabajo 16.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
