@@ -108,16 +108,24 @@ Bocetos&#x20;
 
 ## avance 4&#x20;
 
+Comence calcando la marca y probando el uso de la misma en diferentes disposiciones
+
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% columns %}
-{% column %}
-<figure><img src=".gitbook/assets/Mesa de trabajo 15.png" alt=""><figcaption></figcaption></figure>
-
-
+{% column width="41.66666666666667%" %}
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column %}
+{% column width="58.33333333333333%" %}
 <figure><img src=".gitbook/assets/Mesa de trabajo 16.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
+
+
+
+<figure><img src=".gitbook/assets/mockuptotem1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/mockuptotem2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/mockuptotem3.png" alt=""><figcaption></figcaption></figure>
