@@ -122,3 +122,5 @@ bajada de las alternativas gráficas
 <figure><img src=".gitbook/assets/mockuptotem2.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/mockuptotem3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/WhatsApp Image 2026-09-03 at 16.16.17.jpeg" alt=""><figcaption></figcaption></figure>
