@@ -1,4 +1,5 @@
 ---
+description: ideación
 icon: arrow-trend-up
 ---
 
@@ -112,17 +113,9 @@ Comence calcando la marca y probando el uso de la misma en diferentes disposicio
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-{% columns %}
-{% column width="41.66666666666667%" %}
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
 
-{% column width="58.33333333333333%" %}
-
-{% endcolumn %}
-{% endcolumns %}
-
-
+bajada de las alternativas gráficas
 
 <figure><img src=".gitbook/assets/mockuptotem1.png" alt=""><figcaption></figcaption></figure>
 
