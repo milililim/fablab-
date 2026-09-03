@@ -118,7 +118,7 @@ Comence calcando la marca y probando el uso de la misma en diferentes disposicio
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-<figure><img src=".gitbook/assets/Mesa de trabajo 16.png" alt=""><figcaption></figcaption></figure>
+
 {% endcolumn %}
 {% endcolumns %}
 
