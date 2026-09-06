@@ -124,3 +124,21 @@ bajada de las alternativas gráficas
 <figure><img src=".gitbook/assets/mockuptotem3.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/WhatsApp Image 2026-09-03 at 16.16.17.jpeg" alt=""><figcaption></figcaption></figure>
+
+ejemplo de totem en sanlo&#x20;
+
+{% hint style="warning" %}
+CORRECCIONES tutoria virtual jue 6/9/2026
+
+
+
+1. Definir parámetros formales y técnicos preliminares.
+
+materiales disponibles - campo quien hace - vida util - que se usa ahora&#x20;
+
+mapa de variables vinculados con mi presupuesto &#x20;
+
+2. Relevamiento del circuíto de cada uno de sus espacios.&#x20;
+3. Permisos&#x20;
+{% endhint %}
+
