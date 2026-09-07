@@ -128,7 +128,7 @@ bajada de las alternativas gráficas
 ejemplo de totem en sanlo&#x20;
 
 {% hint style="warning" %}
-CORRECCIONES tutoria virtual jue 6/9/2026
+CORRECCIONES tutoria virtual jue 3/9/2026
 
 
 
@@ -142,3 +142,4 @@ mapa de variables vinculados con mi presupuesto &#x20;
 3. Permisos&#x20;
 {% endhint %}
 
+{% file src=".gitbook/assets/WhatsApp Unknown 2026-09-06 at 22.08.54.zip" %}
