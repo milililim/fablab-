@@ -163,10 +163,6 @@ mapa de variables vinculados con mi presupuesto &#x20;
 3. Permisos&#x20;
 {% endhint %}
 
-> <mark style="color:green;">RELEVAMIENTO FOTOGRAFICO</mark>&#x20;
->
-> {% file src=".gitbook/assets/WhatsApp Unknown 2026-09-06 at 22.08.54.zip" %}
-
 {% columns %}
 {% column %}
 <figure><img src=".gitbook/assets/WhatsApp Image 2026-09-06 at 19.25.03.jpeg" alt=""><figcaption></figcaption></figure>
@@ -213,6 +209,19 @@ Estos son los dos unicos totems de la ciudad que siguen instalados&#x20;
 * Tipografía: Mezcla de estilos tipográficos con problemas de jerarquía. El uso de tipografía de estilo gótico/histórico para el nombre principal reduce drásticamente la legibilidad a distancia y en exteriores.
 * Carga de Contenido: Alta densidad de información en un solo plano físico. Conviven fechas, jerarquías, una fotografía histórica y un bloque de texto descriptivo&#x20;
 
-&#x20;
+{% hint style="info" %}
+&#x20;Volvi a viajar despues de la tutoria y consegui este itinerario que fue le primer recorrido por la noche de las mansiones e hice el relevamiento fotografico de la zona&#x20;
+{% endhint %}
+
+<mark style="color:green;">RELEVAMIENTO FOTOGRAFICO</mark>&#x20;
+
+> {% file src=".gitbook/assets/WhatsApp Unknown 2026-09-06 at 22.08.54.zip" %}
 
 {% embed url="https://drive.google.com/drive/folders/1DMZEfxztLUwEHXRcI0kr-m00pa8l4HhK?usp=sharing" %}
+
+alternativa para el microssitio web&#x20;
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+no avance con el prototipo del sitio web por limitacion de tiempo y conocimiento estare aplicando los lineamientos que construi para armar el sitio con los hitos, lastimosamente no puedo corregirlos todavia en esta entrega
+
