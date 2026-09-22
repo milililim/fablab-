@@ -40,7 +40,7 @@ Criterio de Joan Costa para señalética exterior: legibilidad a distancia, buen
 
 ## &#x20;una ventana de encuadre (calado pasante)
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>grilla</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>margenes</p></figcaption></figure>
 
 Tipografía seleccionada: Monserrat&#x20;
 
@@ -142,7 +142,7 @@ TOTAL: 416/440 caracteres
 
 INFORMACIÓN FALTANTE: Verificar el uso actual del inmueble y los límites de acceso privado.
 
-HITO 08 — Villa Heyn (actual Gobernación)
+<mark style="color:$warning;">HITO 08 —  Gobernación</mark>
 
 Párrafo 1: Es una de las edificaciones de estilo ecléctico más deslumbrantes de la ciudad. Antiguamente residencia privada de la familia Heyn, hoy representa el centro administrativo y político del gobierno departamental.
 
@@ -156,7 +156,7 @@ TOTAL: 421/440 caracteres
 
 INFORMACIÓN FALTANTE: Horarios institucionales habilitados para recorridos turísticos en patios y áreas comunes.
 
-HITO 09 — Palacete Municipal
+<mark style="color:$warning;">HITO 09 — Palacete Municipal</mark>
 
 Párrafo 1: Es la sede oficial del gobierno municipal concepcionero y un referente cívico clave en el centro urbano. Representa la consolidación de las instituciones públicas y la organización administrativa local moderna.
 
@@ -170,7 +170,7 @@ TOTAL: 419/440 caracteres
 
 INFORMACIÓN FALTANTE: Ninguna.
 
-HITO 10 — Mansión Otaño
+<mark style="color:$warning;">HITO 10 — Mansión Otaño</mark>
 
 Párrafo 1: Es una de las villas señoriales mejor conservadas del patrimonio edificado de la ciudad. Representa el esplendor social y la prosperidad alcanzada por las familias vinculadas a la gran producción yerbatera.
 
@@ -184,7 +184,7 @@ TOTAL: 414/440 caracteres
 
 INFORMACIÓN FALTANTE: Confirmar el uso funcional contemporáneo del edificio.
 
-HITO 11 — Teatro Municipal (Mansión Quevedo)
+<mark style="color:$warning;">HITO 11 — Teatro Municipal</mark>&#x20;
 
 Párrafo 1: Es el espacio cultural y escénico más relevante de la ciudad. Representa la recuperación del patrimonio edificado para uso público y el florecimiento de la actividad artística contemporánea de Concepción.
 
@@ -198,7 +198,7 @@ TOTAL: 416/440 caracteres
 
 INFORMACIÓN FALTANTE: Disponibilidad de agenda de eventos culturales para visitantes.
 
-HITO 12 — Monumento a la Virgen María Auxiliadora
+<mark style="color:$warning;">HITO 12 — Monumento a la Virgen María Auxiliadora</mark>
 
 Párrafo 1: Es un relevante hito devocional y paisajístico situado en una elevación ribereña. Representa la fe protectora de la comunidad hacia los navegantes del río Paraguay y la influencia salesiana en la región.
 
@@ -211,3 +211,6 @@ Caracteres: 204/220
 TOTAL: 407/440 caracteres
 
 INFORMACIÓN FALTANTE: Ninguna.
+
+<figure><img src=".gitbook/assets/NORMA.png" alt=""><figcaption></figcaption></figure>
+
