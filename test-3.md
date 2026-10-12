@@ -31,7 +31,9 @@ layout:
 
 # TEST 3
 
+ideas y  bocetos para totem mirador&#x20;
 
+<figure><img src=".gitbook/assets/bocetos totems.png" alt=""><figcaption></figcaption></figure>
 
 {% file src=".gitbook/assets/DGVI_3PA_Actualizado.pdf" %}
 

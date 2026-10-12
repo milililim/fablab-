@@ -4,7 +4,7 @@ icon: gears
 
 # fase 3
 
-prepare estos archivos para ajustar detalles como el color y la disposición de los elementos&#x20;
+pruebas&#x20;
 
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ Criterio de Joan Costa para señalética exterior: legibilidad a distancia, buen
 
 ## &#x20;una ventana de encuadre (calado pasante)
 
-pruebas&#x20;
+pruebas con calado:&#x20;
 
 <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>margenes</p></figcaption></figure>
 
