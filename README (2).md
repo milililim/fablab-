@@ -35,9 +35,11 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
-# TEST
+# TEST 1
 
 ## examen parcial
 
@@ -101,16 +103,6 @@ Brief o insight del proyecto.
 
 
 
-
-
-* Dificultades encontradas.
-
-> Hola, profe. Disculpe la molestia. Quería avisarle que no pude habilitar o solucionar el tema de los comentarios directamente en esta plataforma. Para que pueda realizar la revisión sin problemas, dejo aquí abajo un enlace a un sitio en Notion que funciona como un espejo exacto del contenido del sitio web.
-
 {% embed url="https://app.notion.com/p/Bit-cora-DG-VI-ce4adde1a8df836e853201dddb89080a?source=copy_link" %}
-
-Agradezco mucho su comprensión
-
-
 
 #### &#x20;<a href="#definicion-del-problema-de-comunicacion-visual-enfoque-exclusivo-en-turistas" id="definicion-del-problema-de-comunicacion-visual-enfoque-exclusivo-en-turistas"></a>

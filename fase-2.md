@@ -26,6 +26,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # fase 2
@@ -87,6 +89,8 @@ y por ejemplo monumento al indio sale del casco histórico, pero es sumamente re
 <mark style="color:green;">Producto:</mark>
 
 1. <mark style="color:green;">Conjunto de bocetos, maquetas o propuestas gráficas alternativas (+5).</mark>
+
+<mark style="color:green;">MARCA CIUDAD:</mark>&#x20;
 
 <figure><img src=".gitbook/assets/Recurso 2.png" alt=""><figcaption></figcaption></figure>
 

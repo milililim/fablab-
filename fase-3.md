@@ -30,9 +30,7 @@ framing idea&#x20;
 
 <figure><img src=".gitbook/assets/Collage de fotos neutro minimalista aesthetic.png" alt=""><figcaption></figcaption></figure>
 
-Nombres: originales o <mark style="color:yellow;">actuales</mark>&#x20;
-
-
+decisión de diseño: Nombres: originales o <mark style="color:yellow;">actuales</mark>&#x20;
 
 {% hint style="info" %}
 Criterio de Joan Costa para señalética exterior: legibilidad a distancia, buena distinción entre caracteres (evitar confusión I/l/1), y que resista bien en cuerpos chicos si el soporte lo exige.
