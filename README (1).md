@@ -4,121 +4,117 @@ icon: moon-last-quarter
 
 # proceso
 
-## fase 1
+**Exploración de la gráfica del tótem existente**
 
-## Objetivo
+En esta etapa trabajé sobre la gráfica del tótem existente para explorar la ubicación de la información y la aplicación de los recursos de la marca ciudad. Probé distintas composiciones con fotografías, fondos de color y el símbolo de la marca como marca de agua.
 
-Plantear la idea creativa visual del proyecto que responda a la fase de investigación y tenga como marco su correspondiente base teórica y metodológica aplicada.
+Encontrar estos soportes existentes permitió trabajar con dimensiones definidas y preparar pruebas gráficas sin tener que fabricar una estructura propia para esa instancia.
 
-#### Pasos esperados
 
-* <mark style="color:$warning;">Planteamiento del proyecto de diseño: implica definir claramente el problema de comunicación a resolver y establecer los objetivos generales y específicos que guiarán el desarrollo del proyecto. Esto se realiza a través de los siguientes pasos:</mark>
-* <mark style="color:$warning;">Definición del problema: Identificar y delinear el problema de comunicación visual que se abordará en el proyecto.</mark>
-* Causas del problema: Analizar las razones que originan el problema de comunicación visual.
 
-<mark style="color:red;">Los puntos clave que estructuran este problema son:</mark>
+{% columns %}
+{% column %}
+<figure><img src=".gitbook/assets/WhatsApp Image 2026-09-06 at 19.25.03 (1).jpeg" alt="" width="188"><figcaption></figcaption></figure>
 
-* <mark style="color:red;">Invisibilidad y desvinculación patrimonial: A pesar de tener una gran riqueza histórica (incluyendo su patrimonio fluvial y colonial), los hitos del centro histórico no están integrados ni se comunican de forma efectiva hacia la comunidad o los visitantes.</mark>
-* <mark style="color:red;">Falta de bajada efectiva de la Marca Ciudad: Aunque se cuenta con iniciativas previas (como la Marca Ciudad), la inactividad institucional y la ausencia de una normativa de implementación clara provocan que esta identidad no se comunique, al punto de que una gran parte de los habitantes locales no la reconoce ni la siente propia.</mark>
-* <mark style="color:red;">Carencia de herramientas de navegación turística y digital: No existe un sistema integrado de soportes visuales, físicos (como tótems o señalética) y digitales que guíe, eduque y permita recorrer el circuito patrimonial de manera accesible y atractiva.</mark>
-* <mark style="color:$warning;">Perfil de la audiencia: Determinar las características y necesidades de la audiencia objetivo a la que se dirige el proyecto.</mark>
-* <mark style="color:$success;">Objetivos del diseño: Establecer los objetivos generales y específicos que se busca alcanzar con el proyecto de diseño.</mark>
-* <mark style="color:orange;">Formas de medición: Definir indicadores y métricas para evaluar el cumplimiento de los objetivos planteados.</mark>
-* Canales de distribución: Identificar los canales más efectivos para llegar a la audiencia objetivo con el proyecto de diseño.
-* Esquematización del proyecto, al momento actual, según el método de diseño aplicado: implica representar gráficamente la estructura y componentes del proyecto según el método de diseño aplicado, que incluye:
-* <mark style="color:$warning;">Mapa del sistema gráfico: es un diagrama que muestra la relación entre los diferentes elementos gráficos que conforman el proyecto.</mark>
-* Objetivos proyectuales: asegurar que el sistema gráfico planteado se alinee con los objetivos generales y específicos del proyecto.
-* <mark style="color:$danger;">Ideación: desarrollar bocetos, maquetas y prototipos que exploran diferentes alternativas de diseño para las interfaces gráficas del proyecto.</mark>
-* <mark style="color:$danger;">Parámetros y acotaciones: Definir los parámetros formales, funcionales y técnicos que servirán como insumos para validar las propuestas de diseño.</mark>
-* <mark style="color:$primary;">Referencias para las variables del sistema de diseño (lenguaje visual y sistema gráfico): establecer un lenguaje visual y sistema gráfico coherente, es el resultado de recopilar referencias visuales y elaborar guías básicas que orienten el desarrollo del proyecto. Esto implica desarrollar:</mark>
-* <mark style="color:$success;">Moodboard de inspiración: para recopilar imágenes, texturas, paletas de color y estilos visuales que sirvan como inspiración para el proyecto.</mark>
-* <mark style="color:$primary;">Guía básica de diseño: es una guía que establece los lineamientos y criterios de diseño a seguir en el desarrollo del proyecto y sirve de base para el sistema de diseño final del proyecto.</mark>
 
-{% hint style="info" %}
-#### Entregables:
+{% endcolumn %}
 
-* Capítulo del informe del TFG que plantea el Proyecto, basado en la síntesis de la investigación y el Marco Teórico -Ver Manual de estilo editorial 4ª edición-.
-* Sistema visual (elementos y lenguaje): inspiracional \[moodboard] y planteamiento gráfico inicial.
-{% endhint %}
+{% column %}
+<figure><img src=".gitbook/assets/Vista_previa (1).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
-### ☑ Avance 1. Elaboración del planteamiento del proyecto de diseño y sus objetivos \[plataforma]
+También incorporé textos de los hitos para evaluar cuánto espacio ocupaban y cómo se relacionaban con los demás elementos. Durante la revisión cambié el fondo naranja y los textos blancos buscando mejorar el contraste. Luego exploré el uso de pictogramas para identificar cada lugar en reemplazo de las fotografías.
 
-**Objetivos:**
+<figure><img src=".gitbook/assets/Captura de pantalla 2026-10-23 181701.png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:$success;">Realizar el insight o brief del proyecto de diseño.</mark>
-* Elaborar los objetivos proyectuales, siguiendo la secuencia lógica de ejecución de las acciones.
 
-<mark style="color:$primary;">**Desarrollo:**</mark>
 
-* <mark style="color:$primary;">Elaborar la primera parte del capítulo del informe que corresponde al capítulo del proyecto, según el Manual de Estilo Editorial TFG-DI 4ª edición.</mark>
-* <mark style="color:$primary;">Emplear una herramienta digital accesible para el trabajo colaborativo, que facilite la introducción de comentarios y sugerencias. Se sugiere el empleo de la aplicación GDocs, con permisos públicos de edición.</mark>
-* <mark style="color:$primary;">Realizar la entrega del enlace al documento, en el espacio de entrega.</mark>
+<figure><img src=".gitbook/assets/image(20261012-014248).png" alt=""><figcaption></figcaption></figure>
 
-**Entregable: Documento doc o pdf, con permisos de edición y/o comentarios - Avance 1\_nombreapellido**
+Aunque estas primeras composiciones no se mantuvieron, me ayudaron a definir qué elementos necesitaban mayor presencia y cómo organizar la información.
 
-**Tipo de entrega: Enlace a documento en línea**
 
-**Periodo de elaboración y entrega:**
 
-| Inicio             | Entrega                               | Límite                                |
-| ------------------ | ------------------------------------- | ------------------------------------- |
-| Martes 29 de julio | <p>Martes 04 de agosto</p><p>12 h</p> | <p>Martes 04 de agosto</p><p>13 h</p> |
+***
 
-**Evaluación: PROCESO - 2 pts**
+**Construcción del mapa y definición del recorrido**
 
-<br>
+Comencé señalando algunos lugares emblemáticos sobre un mapa de la ciudad. A partir de esa base, tracé las calles, incorporé sus nombres y numeré las paradas. Al relacionar los puntos, revisé la numeración para proponer una secuencia de visita.
 
-### ☑ Avance 2. Elaboración del planteamiento visual inicial del proyecto \[plataforma]
+<figure><img src=".gitbook/assets/Recurso 11.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Objetivo:**
 
-* <mark style="color:$warning;">Representar visualmente el planteamiento del proyecto de diseño empleando recursos de síntesis (mapa mental, moodboards, libro visual, user persona, journey map) y alcance del trabajo, que respondan a los objetivos planteados.</mark>
 
-**Desarrollo:**
+En una segunda versión utilicé calles en gris y el celeste de la marca ciudad para destacar el recorrido. También ajusté el encuadre del mapa al área donde se concentraban los hitos, buscando que la información fuera más fácil de leer.
 
-* Elaborar la continuación del capítulo del informe que corresponde al capítulo del proyecto, según el Manual de Estilo Editorial TFG-DI 4ª edición.
-* Emplear una herramienta digital accesible para el trabajo colaborativo, que facilite la introducción de comentarios y sugerencias. Se sugiere el empleo de la aplicación GDocs, con permisos públicos de edición.
-* Realizar la entrega del enlace al documento, en el espacio de entrega.
 
-**Entregable: Documento doc o pdf, con permisos de edición y/o comentarios - Avance 2\_nombreapellido**
 
-**Tipo de entrega: Enlace a documento en línea**
+<figure><img src=".gitbook/assets/mapa  (1).png" alt=""><figcaption></figcaption></figure>
 
-**Periodo de elaboración y entrega:**
+Quedó pendiente seguir ajustando el diseño del mapa y comprobar su lectura en los distintos soportes.
 
-| Inicio              | Entrega                               | Límite                                |
-| ------------------- | ------------------------------------- | ------------------------------------- |
-| Martes 04 de agosto | <p>Martes 11 de agosto</p><p>12 h</p> | <p>Martes 11 de agosto</p><p>13 h</p> |
 
-**Evaluación: PROCESO - 2 pts**
 
-**Instrumento: Guía de evaluación**
+***
 
-### ☑ PARCIAL 1. Planteamiento del proyecto \[plataforma+presencial]
+**Exploración del tótem con ventana arqueada**
 
-**Objetivo:**
+Exploré distintas formas de incorporar un encuadre que invitara a observar y fotografiar el paisaje. Realicé bocetos, reuní referencias y utilicé imágenes generadas con IA para visualizar las alternativas en contexto.
 
-* Comunicar visualmente el proyecto gráfico a desarrollar, indicando la metodología de diseño aplicado, los objetivos a alcanzar y el planteamiento gráfico inicial que da soporte a las ideas a prototipar.
+<figure><img src=".gitbook/assets/Captura de pantalla 2026-10-23 175828.png" alt=""><figcaption></figcaption></figure>
 
-**Desarrollo:**
+La primera idea consistió en agregar una ventana arqueada al tótem existente. Durante el proceso opté por desarrollar un soporte específico con esa función, pensado para lugares con vistas de interés, y conservar la alternativa de actualizar la gráfica de los tótems ya instalados.
 
-* <mark style="color:$primary;">Elaborar el capítulo del informe que corresponde al capítulo del proyecto, según el Manual de Estilo Editorial TFG-DI 4ª edición.</mark>
-* Emplear una herramienta digital accesible para el trabajo colaborativo, que facilite la introducción de comentarios y sugerencias. Se recomienda utilizar la aplicación GDocs con permisos públicos de edición. Luego, entregar el enlace al documento en el espacio designado.
+<div><figure><img src=".gitbook/assets/bocetos totems.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Tótem arqueado con gráfica de Puerto Antiguo.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-#### Para el día de la evaluación, como apoyo visual para la presentación, elabora una de las siguientes opciones
+***
 
-<mark style="color:$success;">Dos láminas impresas en tamaño A3 (29,7 x 42 cm)</mark>
+**Ajustes gráficos y prueba en el lugar**
 
-<mark style="color:$success;">Las láminas deben comunicar visualmente el proyecto gráfico a desarrollar, indicando la metodología de diseño aplicada, los objetivos del proyecto y el planteamiento gráfico inicial que da soporte a las ideas a prototipar.</mark>
+En una versión posterior ajusté el color de fondo, incorporé el pictograma del hito y apliqué los límites de extensión definidos para los textos.
 
-<mark style="color:$success;">Asegúrate de que las láminas sean visualmente atractivas, fáciles de leer y transmitan de manera efectiva los aspectos más relevantes de tu proyecto.</mark>
+Para realizar una prueba a escala real, imprimí la gráfica en dos hojas A1 y la coloqué sobre el tótem existente. Esta instancia me permitió probar la lectura del código QR y observar la legibilidad de la información en el lugar.
 
-**Entregables: Documento doc o pdf, con permisos de edición y/o comentarios - Parcial 1\_nombreapellido + Lámina(s) A3 -impreso o hecho a mano-**
+{% columns %}
+{% column %}
+<figure><img src=".gitbook/assets/WhatsApp Image 2026-10-12 at 20.17.55 (3).jpeg" alt=""><figcaption></figcaption></figure>
 
-**Tipo de entrega: Enlace a documento en línea +&#x20;**<mark style="color:$danger;">**Presentación oral**</mark>
+fotografias de la prueba in situ tomadas por la tarde/noche
+{% endcolumn %}
 
-<figure><img src=".gitbook/assets/Captura de pantalla 2026-08-17 155339.png" alt=""><figcaption></figcaption></figure>
+{% column %}
+<figure><img src=".gitbook/assets/WhatsApp Image 2026-10-12 at 20.17.56.jpeg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
-Proceso de diseño de láminas A3
 
-<div><figure><img src=".gitbook/assets/Captura de pantalla 2026-08-18 002847.png" alt=""><figcaption><p>grilla xd</p></figcaption></figure> <figure><img src=".gitbook/assets/Captura de pantalla 2026-08-18 002411.png" alt=""><figcaption></figcaption></figure></div>
+
+Como siguiente ajuste, identifiqué la necesidad de seguir trabajando en el mapa para integrarlo mejor a la composición.
+
+***
+
+**Exploración del sitio web**
+
+Trabajé en un prototipo del sitio web pensado para consultar desde el celular y ampliar la información disponible en los soportes físicos. Comencé definiendo qué datos debía incluir la página de cada hito y cómo organizarlos.
+
+Durante las revisiones incorporé más fotografías, una página de inicio y cambios en el estilo visual. Estas exploraciones me ayudaron a definir la presentación de los contenidos y su relación con el resto del sistema.
+
+
+
+<figure><img src=".gitbook/assets/Captura de pantalla 2026-10-23 200055.png" alt=""><figcaption></figcaption></figure>
+
+**Exploración del fanzine**
+
+Exploré formatos y plegados para desarrollar una pieza impresa que acompañara el recorrido. Consideré el espacio disponible para los contenidos, la facilidad de uso y las posibilidades de producción.
+
+<figure><img src=".gitbook/assets/Captura de pantalla 2026-10-19 124745.png" alt=""><figcaption></figcaption></figure>
+
+En las primeras composiciones probé los colores de la marca ciudad e incorporé ilustraciones realizadas a partir de detalles de las casonas. Seleccioné un plegado por su practicidad y sumé información breve de las paradas para ofrecer una visión general del recorrido.
+
+
+
+<figure><img src=".gitbook/assets/Captura de pantalla 2026-10-20 204818.png" alt=""><figcaption></figcaption></figure>
+
+
+
